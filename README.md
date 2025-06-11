@@ -13,6 +13,7 @@ Der Input kann wahlweise über eine Live-Webcam oder ein beliebiges Videofile ei
 
 * **Quellen:** Webcam (`Video Device In`) oder Videodatei (`Movie File In`).
 * **Keying:** Über den `Luma Keyer` wird eine Helligkeitsmaske erstellt. Der Threshold-Wert sollte je nach Quelle angepasst werden, um ein optimales Ergebnis zu erzielen.
+> **Beispiel Video:** https://www.swisstransfer.com/d/e58f76f4-79e3-4012-8a72-4b9ca7d4e88c
 
 ### 2. **3D-Partikelsystem**
 
