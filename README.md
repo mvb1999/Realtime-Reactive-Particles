@@ -7,13 +7,17 @@ Dieses TouchDesigner-Projekt verwandelt Videoinput in ein audio-reaktives Partik
 
 Der Input kann wahlweise über eine Live-Webcam oder ein beliebiges Videofile eingespeist werden. Der Output lässt sich entweder direkt über einen Bildschirm ausgeben oder als Video aufzeichnen.
 
+
+
 ## Aufbau & Funktionsweise
 
 ### 1. **Input**
 
 * **Quellen:** Webcam (`Video Device In`) oder Videodatei (`Movie File In`).
 * **Keying:** Über den `Luma Keyer` wird eine Helligkeitsmaske erstellt. Der Threshold-Wert sollte je nach Quelle angepasst werden, um ein optimales Ergebnis zu erzielen.
-> **Beispiel Video:** https://www.swisstransfer.com/d/e58f76f4-79e3-4012-8a72-4b9ca7d4e88c
+
+  > **Mögliche MovieFileIn Datei:** https://www.swisstransfer.com/d/e58f76f4-79e3-4012-8a72-4b9ca7d4e88c
+
 
 ### 2. **3D-Partikelsystem**
 
