@@ -47,7 +47,7 @@ Diese Trigger sorgen für starke Reaktionen im Feedbacksystem – jeder Kick fü
 
 ## Selbstreflexion
 
-> Ich habe mich mit diesem Projekt das erste Mal wirklich mit TouchDesigner beschäftigt. Anfangs war ich von der Oberfläche und den vielen Möglichkeiten überfordert – wie bei vielen anderen Programmen auch. Doch nach einigen Tutorials und Experimenten war ich schnell begeistert.
+Ich habe mich mit diesem Projekt das erste Mal wirklich mit TouchDesigner beschäftigt. Anfangs war ich von der Oberfläche und den vielen Möglichkeiten überfordert – wie bei vielen anderen Programmen auch. Doch nach einigen Tutorials und Experimenten war ich schnell begeistert.
 
 Mein ursprüngliches Ziel war die Integration einer Kinect-Kamera. Leider musste ich feststellen, dass diese auf macOS nicht funktioniert. Durch ein YouTube-Video bin ich dann auf die Idee gekommen, die Tiefeninformation stattdessen zu simulieren.
 
