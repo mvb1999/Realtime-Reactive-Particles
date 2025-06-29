@@ -6,6 +6,7 @@
 Dieses TouchDesigner-Projekt verwandelt Videoinput in ein audio-reaktives Partikelsystem. Das visuelle Ergebnis kombiniert Tiefeninformation, Feedback und Echtzeit-Reaktion auf Audiosignale.
 
 Der Input kann wahlweise über eine Live-Webcam oder ein beliebiges Videofile eingespeist werden. Der Output lässt sich entweder direkt über einen Bildschirm ausgeben oder als Video aufzeichnen.
+> **Video presentation:** https://youtube.com/shorts/NUo1IY45WQo?feature=share
 
 
 
