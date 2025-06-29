@@ -16,7 +16,7 @@ Der Input kann wahlweise über eine Live-Webcam oder ein beliebiges Videofile ei
 * **Quellen:** Webcam (`Video Device In`) oder Videodatei (`Movie File In`).
 * **Keying:** Über den `Luma Keyer` wird eine Helligkeitsmaske erstellt. Der Threshold-Wert sollte je nach Quelle angepasst werden, um ein optimales Ergebnis zu erzielen.
 
-  > **Mögliche MovieFileIn Datei:** https://www.swisstransfer.com/d/e58f76f4-79e3-4012-8a72-4b9ca7d4e88c
+  > **Meine verwendete MovieFileIn Datei:** https://www.swisstransfer.com/d/960c9d23-4b8f-4ff4-a8d7-e7cf723f89b3
 
 
 ### 2. **3D-Partikelsystem**
@@ -63,4 +63,3 @@ Ehrlich gesagt verstehe ich noch nicht alle Nodes im Detail – aber durch viel 
 
 ---
 
-Möchtest du diese Datei als `.md` exportiert haben? Ich kann sie dir gern als Markdown-Datei formatieren und speichern.
