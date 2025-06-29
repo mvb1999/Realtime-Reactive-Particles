@@ -54,12 +54,9 @@ Diese Trigger sorgen für starke Reaktionen im Feedbacksystem – jeder Kick fü
 
 Ich habe mich mit diesem Projekt das erste Mal wirklich mit TouchDesigner beschäftigt. Anfangs war ich von der Oberfläche und den vielen Möglichkeiten überfordert – wie bei vielen anderen Programmen auch. Doch nach einigen Tutorials und Experimenten war ich schnell begeistert.
 
-Mein ursprüngliches Ziel war die Integration einer Kinect-Kamera. Leider musste ich feststellen, dass diese auf macOS nicht funktioniert. Durch ein YouTube-Video bin ich dann auf die Idee gekommen, die Tiefeninformation stattdessen zu simulieren.
+Mein ursprüngliches Ziel war die Integration einer Kinect-Kamera. Leider musste ich feststellen, dass diese auf macOS nicht funktioniert. Durch ein YouTube-Video bin ich dann auf die Idee gekommen, die Tiefeninformation stattdessen zu simulieren und eine normale Webcam als Videoinput zu benutzen. Für die finale Videopräsentation habe ich ein Video einer Ballettaufführung verwendet, da die Bewegungen einerseits sehr spannend für die Feedbackloops sind und der schwarze Hintergrund mit der weiß gekleideten Ballerina andererseits eine optimale Voraussetzung für den Luma Key bietet. Zusätzlich habe ich beim Erstellen der MovieFileIn-Datei mit „Gaussian Blur” und „Black Frames” gearbeitet. Diese Effekte haben den Partikel noch ein cooles Detail verliehen.
 
-Ehrlich gesagt verstehe ich noch nicht alle Nodes im Detail – aber durch viel Trial-and-Error habe ich ein Ergebnis erzielt, das mich visuell überzeugt. Ich kann mir vorstellen, dieses Setup in Zukunft für Musikvideos oder vielleicht auch für Live-Performances einzusetzen, falls sich der richtige Use Case ergibt.
-
----
-
+Ehrlich gesagt verstehe ich noch nicht alle Nodes im Detail – aber durch viel Trial-and-Error habe ich ein Ergebnis erzielt, das mich visuell überzeugt. Ich kann mir vorstellen, dieses Setup in Zukunft für Musikvideos oder vielleicht auch für Live-Performances einzusetzen, falls sich der richtige Use-Case ergibt.
 
 ---
 
