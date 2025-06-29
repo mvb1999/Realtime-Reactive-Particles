@@ -6,7 +6,7 @@
 Dieses TouchDesigner-Projekt verwandelt Videoinput in ein audio-reaktives Partikelsystem. Das visuelle Ergebnis kombiniert Tiefeninformation, Feedback und Echtzeit-Reaktion auf Audiosignale.
 
 Der Input kann wahlweise über eine Live-Webcam oder ein beliebiges Videofile eingespeist werden. Der Output lässt sich entweder direkt über einen Bildschirm ausgeben oder als Video aufzeichnen.
-**Video presentation:** https://youtube.com/shorts/NUo1IY45WQo?feature=share
+> **Video presentation:** https://youtube.com/shorts/NUo1IY45WQo?feature=share
 
 
 
@@ -17,7 +17,7 @@ Der Input kann wahlweise über eine Live-Webcam oder ein beliebiges Videofile ei
 * **Quellen:** Webcam (`Video Device In`) oder Videodatei (`Movie File In`).
 * **Keying:** Über den `Luma Keyer` wird eine Helligkeitsmaske erstellt. Der Threshold-Wert sollte je nach Quelle angepasst werden, um ein optimales Ergebnis zu erzielen.
 
-  > **Meine verwendete MovieFileIn Datei:** https://www.swisstransfer.com/d/960c9d23-4b8f-4ff4-a8d7-e7cf723f89b3
+> **Meine verwendete MovieFileIn Datei:** https://www.swisstransfer.com/d/960c9d23-4b8f-4ff4-a8d7-e7cf723f89b3
 
 
 ### 2. **3D-Partikelsystem**
